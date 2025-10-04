@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-BOT_TOKEN = "8493342513:AAFdmE1KeeKfdzu5O7jIYTNAPAcXvafHN0I"
+BOT_TOKEN = "8335585269:AAHD2XTIqLs7gp_l8QI7ANRI21iULOTxNNY"
 SCRAPINGBEE_API_URL = "https://app.scrapingbee.com/api/v1/"
 
 # Data storage files
